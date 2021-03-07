@@ -1,5 +1,5 @@
 #include<atdio.h>
-
+#changeInHifromCool
 void hi() {
 	printf(hi);
 }
