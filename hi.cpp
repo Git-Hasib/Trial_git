@@ -1,5 +1,6 @@
 #include<atdio.h>
 #changeInHifromMain
+#changeInHifromCool
 void hi() {
 	printf(hi);
 }
